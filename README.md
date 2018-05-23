@@ -1,3 +1,3 @@
 #machine learning project
-#python3
+#python
 #iris dataset
